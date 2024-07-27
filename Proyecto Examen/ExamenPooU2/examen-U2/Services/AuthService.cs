@@ -1,6 +1,6 @@
-﻿using BlogUNAH.API.Services.Interfaces;
+﻿using examen_U2.Services.Interface;
 
-namespace BlogUNAH.API.Services;
+namespace examen_U2.Services;
 //authenteticacion service
 public class AuthService : IAuthService
 {

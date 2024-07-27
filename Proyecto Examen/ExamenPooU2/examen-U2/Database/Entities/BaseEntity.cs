@@ -7,6 +7,6 @@ namespace examen_U2.Database.Entities
     {
         [Key]       //llave primaria
         [Column("id")]  //nombre de columna que lleva el atributo
-        public Guid Id { get; set; }
+        public Guid identityNumber { get; set; }
     }
 }

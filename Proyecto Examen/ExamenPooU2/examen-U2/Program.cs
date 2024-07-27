@@ -1,25 +1,33 @@
+using examen_U2;
+using examen_U2.Database;
+
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+var startup = new Startup(builder.Configuration);
 
-builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
+startup.ConfigureServices(builder.Services);
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
+startup.Configure(app, app.Environment);
+
+using (var scope = app.Services.CreateScope())
 {
-    app.UseSwagger();
-    app.UseSwaggerUI();
+    var services = scope.ServiceProvider;
+    var loggerFactory = services.GetRequiredService<ILoggerFactory>();
+
+    try
+    {
+        var context = services.GetRequiredService<ExamenContext>();
+        await ExamenSeeder.LoadDataAsync(context, loggerFactory);
+    }
+    catch (Exception e)
+    {
+        var logger = loggerFactory.CreateLogger<Program>();
+        logger.LogError(e, "Error al ejecutar el Seed de datos");
+    }
+
 }
-
-app.UseHttpsRedirection();
-
-app.UseAuthorization();
-
-app.MapControllers();
 
 app.Run();

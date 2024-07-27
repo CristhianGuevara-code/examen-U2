@@ -1,0 +1,10 @@
+{
+  "name": "Juan Perez",
+  "identityNumber": "123456789",
+  "loanAmount": 10000,
+  "commissionRate": 2,
+  "interestRate": 12,
+  "term": 24,
+  "disbursementDate": "2024-08-01",
+  "firstPaymentDate": "2024-09-01"
+}
