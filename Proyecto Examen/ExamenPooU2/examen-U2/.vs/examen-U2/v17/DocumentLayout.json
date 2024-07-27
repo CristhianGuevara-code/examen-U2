@@ -1,12 +1,173 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Cristhian Guevara\\Documents\\Examen-POO-U2\\Proyecto Examen\\ExamenPooU2\\examen-U2\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DFB26F1-F583-47A2-9133-E6285A2DEC82}|examen-U2.csproj|c:\\users\\cristhian guevara\\documents\\examen-poo-u2\\proyecto examen\\examenpoou2\\examen-u2\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DFB26F1-F583-47A2-9133-E6285A2DEC82}|examen-U2.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DFB26F1-F583-47A2-9133-E6285A2DEC82}|examen-U2.csproj|c:\\users\\cristhian guevara\\documents\\examen-poo-u2\\proyecto examen\\examenpoou2\\examen-u2\\helpers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DFB26F1-F583-47A2-9133-E6285A2DEC82}|examen-U2.csproj|solutionrelative:helpers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DFB26F1-F583-47A2-9133-E6285A2DEC82}|examen-U2.csproj|c:\\users\\cristhian guevara\\documents\\examen-poo-u2\\proyecto examen\\examenpoou2\\examen-u2\\database\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DFB26F1-F583-47A2-9133-E6285A2DEC82}|examen-U2.csproj|solutionrelative:database\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DFB26F1-F583-47A2-9133-E6285A2DEC82}|examen-U2.csproj|c:\\users\\cristhian guevara\\documents\\examen-poo-u2\\proyecto examen\\examenpoou2\\examen-u2\\dtos\\clientes\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DFB26F1-F583-47A2-9133-E6285A2DEC82}|examen-U2.csproj|solutionrelative:dtos\\clientes\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DFB26F1-F583-47A2-9133-E6285A2DEC82}|examen-U2.csproj|c:\\users\\cristhian guevara\\documents\\examen-poo-u2\\proyecto examen\\examenpoou2\\examen-u2\\database\\entities\\clienteentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DFB26F1-F583-47A2-9133-E6285A2DEC82}|examen-U2.csproj|solutionrelative:database\\entities\\clienteentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DFB26F1-F583-47A2-9133-E6285A2DEC82}|examen-U2.csproj|c:\\users\\cristhian guevara\\documents\\examen-poo-u2\\proyecto examen\\examenpoou2\\examen-u2\\seeddata\\clientes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1DFB26F1-F583-47A2-9133-E6285A2DEC82}|examen-U2.csproj|solutionrelative:seeddata\\clientes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DFB26F1-F583-47A2-9133-E6285A2DEC82}|examen-U2.csproj|c:\\users\\cristhian guevara\\documents\\examen-poo-u2\\proyecto examen\\examenpoou2\\examen-u2\\database\\examencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DFB26F1-F583-47A2-9133-E6285A2DEC82}|examen-U2.csproj|solutionrelative:database\\examencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DFB26F1-F583-47A2-9133-E6285A2DEC82}|examen-U2.csproj|c:\\users\\cristhian guevara\\documents\\examen-poo-u2\\proyecto examen\\examenpoou2\\examen-u2\\database\\examenseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DFB26F1-F583-47A2-9133-E6285A2DEC82}|examen-U2.csproj|solutionrelative:database\\examenseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DFB26F1-F583-47A2-9133-E6285A2DEC82}|examen-U2.csproj|c:\\users\\cristhian guevara\\documents\\examen-poo-u2\\proyecto examen\\examenpoou2\\examen-u2\\services\\interface\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DFB26F1-F583-47A2-9133-E6285A2DEC82}|examen-U2.csproj|solutionrelative:services\\interface\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Cristhian Guevara\\Documents\\Examen-POO-U2\\Proyecto Examen\\ExamenPooU2\\examen-U2\\Helpers\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Helpers\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\Cristhian Guevara\\Documents\\Examen-POO-U2\\Proyecto Examen\\ExamenPooU2\\examen-U2\\Helpers\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Helpers\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T01:05:18.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Cristhian Guevara\\Documents\\Examen-POO-U2\\Proyecto Examen\\ExamenPooU2\\examen-U2\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\Cristhian Guevara\\Documents\\Examen-POO-U2\\Proyecto Examen\\ExamenPooU2\\examen-U2\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T00:55:17.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteDto.cs",
+              "DocumentMoniker": "C:\\Users\\Cristhian Guevara\\Documents\\Examen-POO-U2\\Proyecto Examen\\ExamenPooU2\\examen-U2\\Dtos\\Clientes\\ClienteDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Clientes\\ClienteDto.cs",
+              "ToolTip": "C:\\Users\\Cristhian Guevara\\Documents\\Examen-POO-U2\\Proyecto Examen\\ExamenPooU2\\examen-U2\\Dtos\\Clientes\\ClienteDto.cs",
+              "RelativeToolTip": "Dtos\\Clientes\\ClienteDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T00:14:44.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Cristhian Guevara\\Documents\\Examen-POO-U2\\Proyecto Examen\\ExamenPooU2\\examen-U2\\Database\\Entities\\ClienteEntity.cs",
+              "RelativeDocumentMoniker": "Database\\Entities\\ClienteEntity.cs",
+              "ToolTip": "C:\\Users\\Cristhian Guevara\\Documents\\Examen-POO-U2\\Proyecto Examen\\ExamenPooU2\\examen-U2\\Database\\Entities\\ClienteEntity.cs",
+              "RelativeToolTip": "Database\\Entities\\ClienteEntity.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T00:13:41.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Cristhian Guevara\\Documents\\Examen-POO-U2\\Proyecto Examen\\ExamenPooU2\\examen-U2\\Database\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Database\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Cristhian Guevara\\Documents\\Examen-POO-U2\\Proyecto Examen\\ExamenPooU2\\examen-U2\\Database\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Database\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T00:12:21.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExamenContext.cs",
+              "DocumentMoniker": "C:\\Users\\Cristhian Guevara\\Documents\\Examen-POO-U2\\Proyecto Examen\\ExamenPooU2\\examen-U2\\Database\\ExamenContext.cs",
+              "RelativeDocumentMoniker": "Database\\ExamenContext.cs",
+              "ToolTip": "C:\\Users\\Cristhian Guevara\\Documents\\Examen-POO-U2\\Proyecto Examen\\ExamenPooU2\\examen-U2\\Database\\ExamenContext.cs",
+              "RelativeToolTip": "Database\\ExamenContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T23:45:54.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Clientes.json",
+              "DocumentMoniker": "C:\\Users\\Cristhian Guevara\\Documents\\Examen-POO-U2\\Proyecto Examen\\ExamenPooU2\\examen-U2\\SeedData\\Clientes.json",
+              "RelativeDocumentMoniker": "SeedData\\Clientes.json",
+              "ToolTip": "C:\\Users\\Cristhian Guevara\\Documents\\Examen-POO-U2\\Proyecto Examen\\ExamenPooU2\\examen-U2\\SeedData\\Clientes.json",
+              "RelativeToolTip": "SeedData\\Clientes.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-26T23:44:29.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExamenSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Cristhian Guevara\\Documents\\Examen-POO-U2\\Proyecto Examen\\ExamenPooU2\\examen-U2\\Database\\ExamenSeeder.cs",
+              "RelativeDocumentMoniker": "Database\\ExamenSeeder.cs",
+              "ToolTip": "C:\\Users\\Cristhian Guevara\\Documents\\Examen-POO-U2\\Proyecto Examen\\ExamenPooU2\\examen-U2\\Database\\ExamenSeeder.cs",
+              "RelativeToolTip": "Database\\ExamenSeeder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T23:33:59.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\Cristhian Guevara\\Documents\\Examen-POO-U2\\Proyecto Examen\\ExamenPooU2\\examen-U2\\Services\\Interface\\IClienteService.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\IClienteService.cs",
+              "ToolTip": "C:\\Users\\Cristhian Guevara\\Documents\\Examen-POO-U2\\Proyecto Examen\\ExamenPooU2\\examen-U2\\Services\\Interface\\IClienteService.cs",
+              "RelativeToolTip": "Services\\Interface\\IClienteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T23:25:58.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

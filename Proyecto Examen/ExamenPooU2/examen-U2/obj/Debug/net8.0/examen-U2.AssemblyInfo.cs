@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("examen-U2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+292156973371dbdfa6135f64192ca74993fe4947")]
 [assembly: System.Reflection.AssemblyProductAttribute("examen-U2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("examen-U2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
